@@ -6,7 +6,7 @@ __pycache__/
 venv/
 
 # Resultados del escáner
-alpn_results.csv
+alpn_results*.csv
 resultados.csv
 *.log
 dominios.txt
